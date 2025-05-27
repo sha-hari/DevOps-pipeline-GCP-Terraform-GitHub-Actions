@@ -1,12 +1,13 @@
 # DevOps-pipeline-GCP-GitHub-Actions
 
 ## Description: 
-Buiding a data pipeline to simulate real time data streaming using Apache Kafka
+Buiding a CI/CD pipeline using GitHubActions and Terraform on GCP
 
-## Services used:
+## Technology used:
 - Cloud: GCP
 - Storage: BigQuery
-- CI/CD: GithubActions and Terraform 
+- IaaS: Terraform
+- CI/CD: GithubActions
 
 ## Process summary:
 - Developed python scripts to generate data from open source libraries and load into GCP BigTable
